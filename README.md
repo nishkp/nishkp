@@ -85,9 +85,6 @@ coming soon ;)
 [<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
 
-![Profile views](https://gpvc.arturio.dev/alishehbaz)
-
-[linkedin]: https://www.linkedin.com/in/alishehbaz/
-[website]: https://www.alishehbaz.tech/
+[linkedin]: https://www.linkedin.com/in/nishk-patel/
 [resume]: (./Ali_Shehbaz.pdf)
-[email]: mailto:alishahbaz072@gmail.com
+[email]: mailto:nishkdpatel@gmail.com
