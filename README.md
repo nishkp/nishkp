@@ -2,13 +2,13 @@
 
 <img align="right" width="25%" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-I am a 21 year old **Full-Stack Software Developer** who is pursuing **Computer Science** at NYU :purple_heart: with a minor in **cybersecurity**.
+I am 18 year old **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵: with a minor in **Economics**.
 
 #### I create Web Apps, APIs, Desktop Apps, IOT applications, and sometimes whatever I want.
 
 ---
 
-:dart: I'm currently open to work and searching for 2023 - New Grad SWE opportunities.<br>
+:dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
 :book: I’m currently working as a SWE Intern @ Societe Generale. <br>
 :abacus: I’m currently learning Docker.<br>
 :books: I want to learn loads of stuff and some of that includes Cybersecurity, DevOps and Artificial Intelligence.<br>
