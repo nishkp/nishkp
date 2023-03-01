@@ -2,6 +2,8 @@
 
 <img align="right" width="10%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
+<h2 align="center">Computer Science @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
+
 Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** with a minor in **Economics** at UIUC 🟠🔵.
 
 #### Interests: Deep Learning, Neural Networks, Quantatative Finance, Data Analytics.
@@ -81,7 +83,7 @@ coming soon ;)
 #### More about me :
 
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
-[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-cv.png"/>][resume]
+[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume]
 <!--
 [<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
