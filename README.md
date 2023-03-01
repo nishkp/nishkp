@@ -2,7 +2,7 @@
 
 <img align="right" width="10%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
-Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵 with a minor in **Economics**.
+Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** with a minor in **Economics**at UIUC 🟠🔵.
 
 #### Interests: Deep Learning, Neural Networks, Quantatative Finance, Data Analytics.
 
