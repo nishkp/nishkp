@@ -78,7 +78,7 @@ coming soon ;)
 > *“Do not go where the path may lead, go instead where there is no path and leave a trail. ~ Ralph Waldo Emerson”* ~ My CSC 101 Professor
 ---
 
-#### You can find me in the 🕸️ :
+#### More about me :
 
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume]
