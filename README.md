@@ -11,9 +11,7 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 :dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
 :book: I’m currently working as a SWE Intern @ Societe Generale. <br>
 :abacus: I’m currently learning Docker.<br>
-:books: I want to learn loads of stuff and some of that includes Cybersecurity, DevOps and Artificial Intelligence.<br>
-:smiley: Pronouns: He/Him/His<br>
-:zap: Fun fact: I am a FC Barcelona :heart: :blue_heart: fan and I have been watching :soccer: since I was a 6 year old. I could analyze a game very closely. Plus, I am a Potterhead and a MCU Fanatic.<br>
+:books: The A<br>
 
 ---
 
@@ -88,5 +86,5 @@ coming soon ;)
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
 
 [linkedin]: https://www.linkedin.com/in/nishk-patel/
-[resume]: (Nishk_Patel_Resume.pdf)
+[resume]: (main/Nishk_Patel_Resume.pdf)
 [email]: mailto:nishkdpatel@gmail.com
