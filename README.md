@@ -1,4 +1,4 @@
-# Hi, I am [Nishk](https://www.linkedin.com/in/nishk-patel/)! 
+# [Nishk Patel](https://www.linkedin.com/in/nishk-patel/)
 
 <img align="right" width="10%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
