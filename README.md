@@ -2,9 +2,9 @@
 
 <img align="right" width="25%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
-I am 18 year old **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵: with a minor in **Economics**.
+Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵: with a minor in **Economics**.
 
-#### I create Web Apps, APIs, Desktop Apps, IOT applications, and sometimes whatever I want.
+#### Interests: Deep Learning, Neural Networks, Quantatative Finance, Data Analytics.
 
 ---
 
