@@ -86,5 +86,5 @@ coming soon ;)
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
 
 [linkedin]: https://www.linkedin.com/in/nishk-patel/
-[resume]: (./Nishk_Patel_Resume.pdf)
+[resume]: (./Nishk Patel - Resume.pdf)
 [email]: mailto:nishkdpatel@gmail.com
