@@ -1,6 +1,6 @@
 # Hi, I am [Nishk](https://www.linkedin.com/in/nishk-patel/)! 
 
-<img align="right" width="25%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
+<img align="right" width="15%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
 Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵: with a minor in **Economics**.
 
