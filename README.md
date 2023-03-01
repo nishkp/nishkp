@@ -1,6 +1,6 @@
 # Hi, I am [Nishk](https://www.linkedin.com/in/nishk-patel/)! 
 
-<img align="right" width="25%" src ="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" width="25%" src ="http://gdawgthegrey.tumblr.com/post/52397470508/little-soldier-boy-come-marching-home">
 
 I am 18 year old **Software Developer** who is pursuing **Computer Science & Statistics** at UIUC 🟠🔵: with a minor in **Economics**.
 
