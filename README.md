@@ -32,11 +32,14 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/30/000000/python.png"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
 </p>
+<!--
+<img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
+
+-->
 
 #### Tech and :wrench: Stack:
 
@@ -56,6 +59,8 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 <!-- <img src="https://img.icons8.com/color/30/000000/graphql.png"/> -->
 
 </p>
+<!-- 
+
 
 #### Databases:
 
@@ -64,8 +69,8 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/30/000000/postgreesql.png"/>
 </p>
-
-<!-- #### DevOps:
+ 
+#### DevOps:
 <p align="left">
 
 coming soon ;)
@@ -75,16 +80,17 @@ coming soon ;)
 <img src="https://img.icons8.com/color/30/000000/docker.png"/>
 
 </p>
- -->
 ---
 > *“Do not go where the path may lead, go instead where there is no path and leave a trail. ~ Ralph Waldo Emerson”* ~ My CSC 101 Professor
 ---
 
+
+ -->
 #### More about me :
 
-[<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
+[<img align="center" src="https://img.icons8.com/fluent/32/000000/linkedin.png"/>][linkedin]
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume]
-[<img align="center" src="https://img.icons8.com/cotton/30/000000/instagram.png"/>][insta]
+[<img align="center" src="https://img.icons8.com/cotton/37/000000/instagram.png"/>][insta]
 
 <!--
 [<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
