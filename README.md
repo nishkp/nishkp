@@ -11,9 +11,6 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 ---
 
 :dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
-:book: I’m currently working as a SWE Intern @ Societe Generale. <br>
-:abacus: I’m currently learning Docker.<br>
-:books: The A<br>
 
 ---
 
