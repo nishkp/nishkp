@@ -81,7 +81,7 @@ coming soon ;)
 #### More about me :
 
 [<img align="center" src="https://img.icons8.com/fluent/30/000000/linkedin.png"/>][linkedin]
-[<img align="center" src="https://img.icons8.com/fluent/30/000000/cv.png"/>][resume]
+[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-cv.png"/>][resume]
 <!--
 [<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
 [<img align="center" src="https://img.icons8.com/dusk/30/000000/email.png"/>][email]</br>
