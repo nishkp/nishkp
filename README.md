@@ -35,30 +35,31 @@ Aspiring **Software Developer** who is pursuing **Computer Science & Statistics*
 <img src="https://img.icons8.com/color/30/000000/python.png"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
 </p>
+
+
 <!--
 <img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
-
 -->
 
-#### Tech and :wrench: Stack:
+#### Tech Stack:
 
 <p align="left">
 <img src="https://img.icons8.com/color/30/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/30/000000/css3.png"/>
-<img src="https://img.icons8.com/color/30/000000/nodejs.png"/>
 <img src="https://img.icons8.com/plasticine/30/000000/react.png"/>
 <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/30/000000/git.png"/>
 <img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/nolan/30/heroku.png"/>
-<!-- <img src="https://img.icons8.com/color/30/000000/firebase.png"/> -->
-<img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/>
-<img src="https://img.icons8.com/color/30/000000/linux.png"/>
-<img src="https://img.icons8.com/color/30/000000/arduino.png"/>
-<!-- <img src="https://img.icons8.com/color/30/000000/graphql.png"/> -->
-
 </p>
+
+<!-- <img src="https://img.icons8.com/nolan/30/heroku.png"/>
+<!-- <img src="https://img.icons8.com/color/30/000000/firebase.png"/> -->
+<!-- <img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/> -->
+<!-- <img src="https://img.icons8.com/color/30/000000/linux.png"/> -->
+<!-- <img src="https://img.icons8.com/color/30/000000/arduino.png"/> -->
+<!-- <img src="https://img.icons8.com/color/30/000000/graphql.png"/> -->
+<!-- <img src="https://img.icons8.com/color/30/000000/nodejs.png"/>-->
 <!-- 
 
 
