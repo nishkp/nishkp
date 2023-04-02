@@ -2,7 +2,7 @@
 
 <img align="right" width="10%" src ="https://media.giphy.com/media/uTpY9ARfN2eqs/giphy.gif">
 
-<h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> Illinois</h2>
+<h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> llinois</h2>
 
 Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** with a minor in **Economics** at UIUC 🟠🔵.
 
