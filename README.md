@@ -4,7 +4,7 @@
 
 <h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> llinois</h2>
 
-Aspiring **Software Developer** who is pursuing **Computer Science & Statistics** with a minor in **Economics** at UIUC 🟠🔵.
+Aspiring **Software Developer** pursuing **Computer Science & Statistics** with a minor in **Economics** at UIUC 🟠🔵.
 
 #### Interests: Deep Learning, Neural Networks, Quantatative Finance, Data Analytics.
 
