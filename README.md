@@ -14,7 +14,7 @@ Aspiring **Software Developer** pursuing **Computer Science & Statistics** with 
 
 ---
 
-![Nishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishkp&hide=contribs,prs,issues&theme=radical)
+//![Nishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishkp&hide=contribs,prs,issues&theme=radical)
 
  <!--
 
