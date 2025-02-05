@@ -6,12 +6,6 @@
 
 Aspiring **Software Developer** pursuing ** Masters in Computer Science / Computer Science & Statistics** at UIUC 🟠🔵.
 
-
----
-
-
----
-
 <!---![Nishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishkp&hide=contribs,prs,issues&theme=radical)
 
  <!--
