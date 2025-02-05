@@ -4,13 +4,11 @@
 
 <h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> llinois</h2>
 
-Aspiring **Software Developer** pursuing **Computer Science & Statistics** with a minor in **Economics** at UIUC 🟠🔵.
+Aspiring **Software Developer** pursuing ** Masters in Computer Science / Computer Science & Statistics** at UIUC 🟠🔵.
 
-#### Interests: Deep Learning, Neural Networks, Quantatative Finance, Data Analytics.
 
 ---
 
-:dart: I'm currently open to work for 2023 - Undergrad SWE internship and part-time opportunities.<br>
 
 ---
 
