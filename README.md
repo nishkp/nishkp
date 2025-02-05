@@ -4,7 +4,7 @@
 
 <h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> llinois</h2>
 
-Aspiring **Software Developer** pursuing ** Masters in Computer Science and Computer Science & Statistics** at UIUC 🟠🔵.
+Aspiring **Software Developer** pursuing **Masters in Computer Science / Computer Science & Statistics** at UIUC 🟠🔵.
 
 <!---![Nishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishkp&hide=contribs,prs,issues&theme=radical)
 
