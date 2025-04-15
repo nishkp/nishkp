@@ -79,7 +79,7 @@ coming soon ;)
 #### More about me :
 
 [<img align="center" src="https://img.icons8.com/fluent/32/000000/linkedin.png"/>][linkedin]
-[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume]
+<!--[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume] -->
 [<img align="center" src="https://img.icons8.com/cotton/37/000000/instagram.png"/>][insta]
 
 <!--
@@ -88,6 +88,5 @@ coming soon ;)
 -->
 
 [linkedin]: https://www.linkedin.com/in/nishk-patel/
-[resume]: https://github.com/nishkp/nishkp/blob/7a97e308ac59bd7843e76e8ca5f2e49750a26a0f/Nishk_Patel_Resume.pdf
 [insta]: https://www.instagram.com/nishk_p/
 [email]: mailto:nishkdpatel@gmail.com
