@@ -79,8 +79,8 @@ coming soon ;)
 #### More about me :
 
 [<img align="center" src="https://img.icons8.com/fluent/32/000000/linkedin.png"/>][linkedin]
-<!--[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume] -->
 [<img align="center" src="https://img.icons8.com/cotton/37/000000/instagram.png"/>][insta]
+<!--[<img align="center" src="https://img.icons8.com/fluent/30/000000/open-resume.png"/>][resume] -->
 
 <!--
 [<img align="center" src="https://img.icons8.com/color/30/000000/domain--v1.png"/>][website]
