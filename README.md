@@ -4,7 +4,7 @@
 
 <h2 align="center">Computer Science & Statistics @ <img width="13px" src="https://marketing.illinois.edu/wp-content/uploads/2021/09/block-I-primary.png"/> llinois</h2>
 
-Aspiring **Software Developer** pursuing **Masters in Computer Science / Computer Science & Statistics** at UIUC 🟠🔵.
+**Software Developer** pursuing **Masters in Computer Science / Computer Science & Statistics** at UIUC 🟠🔵.
 
 <!---![Nishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishkp&hide=contribs,prs,issues&theme=radical)
 
@@ -15,7 +15,7 @@ Aspiring **Software Developer** pursuing **Masters in Computer Science / Compute
 - 💬 Ask me about ...
 - 📫 How to reach me: ....
 -->
-
+<!--
 #### Programming Languages:
 
 <p align="left">
@@ -24,13 +24,13 @@ Aspiring **Software Developer** pursuing **Masters in Computer Science / Compute
 <img src="https://img.icons8.com/color/30/000000/python.png"/>
 <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
 </p>
-
+-->
 
 <!--
 <img src="https://img.icons8.com/officel/30/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
 -->
-
+<!--
 #### Tech Stack:
 
 <p align="left">
@@ -41,7 +41,7 @@ Aspiring **Software Developer** pursuing **Masters in Computer Science / Compute
 <img src="https://img.icons8.com/color/30/000000/git.png"/>
 <img src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png"/>
 </p>
-
+-->
 <!-- <img src="https://img.icons8.com/nolan/30/heroku.png"/>
 <!-- <img src="https://img.icons8.com/color/30/000000/firebase.png"/> -->
 <!-- <img src="https://img.icons8.com/ios-filled/30/000000/jquery.png"/> -->
